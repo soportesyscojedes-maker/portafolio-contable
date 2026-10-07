@@ -1,0 +1,23 @@
+Seguir metiendo contenido — a medida que desarrollemos cada carpeta
+
+Añadir buscador — filtrar documentos por nombre o normativa
+
+Añadir botón de exportar a Word, excel, imprimir, PDF (con marca de agua),en los ejemplos
+
+Añadir login simple (usuario/contraseña en JS para disuadir), pero que yo se lo genere, para enviar diferentes 
+
+Convertirlo en app con backend (Node.js + base de datos) para publicación real
+
+que la PROTECCIONES ANTI-COPIA exista, pero que con una clave maestra pueda tener acceso total, menos al codigo fuente claro
+
+que pueda tener una caja para agragar algun video explicativo o modo clase grabada,pero que su vista sea desde puede ser youtube, con la posibilidad de darle como hipervinculo la direccion donde este alojado el video. solo en pagina presenta imagen como caratula, creoes asi....tambien eso se puede?..ademas de un listado de archivos reposados con redirecion para descargar como google drive
+
+
+🔑 Credenciales de prueba
+Usuario: estudiante1 / Clave: conta2025
+
+Usuario: profesor / Clave: docente2025
+
+Clave maestra: MAESTRO-2025-FCCPV
+
+
